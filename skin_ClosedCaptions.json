@@ -192,7 +192,7 @@
       "thumbnailPreview": true
     },
     "tooltips":{
-      "enabled":false
+      "enabled":true
     }
   },
   "live": {
