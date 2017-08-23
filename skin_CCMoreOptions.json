@@ -127,7 +127,7 @@
     "color": "red",
     "iconStyle": {
       "active": {
-        "color": "#FFFFFF",
+        "color": "red",
         "opacity": 1.0
       },
       "inactive": {
