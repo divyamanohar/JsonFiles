@@ -131,7 +131,7 @@
         "opacity": 1.0
       },
       "inactive": {
-        "color": "#FFFFFF",
+        "color": "red",
         "opacity": 0.95
       }
     }
