@@ -1,20 +1,3 @@
-
-This repository
-Pull requests
-Issues
-Marketplace
-Gist
- @sndy35
- Watch 0
-  Unstar 1
-  Fork 0 sndy35/hello-world
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Settings Insights 
-Branch: master Find file Copy pathhello-world/skin_buttonsDisabled.json
-927202b  17 minutes ago
-@sndy35 sndy35 Update skin_buttonsDisabled.json
-1 contributor
-RawBlameHistory     
-262 lines (255 sloc)  9.85 KB
 {
   "general": {
     "watermark": {"imageResource": {"url": "","androidResource" : "logo","iosResource" : "logo"  },
@@ -184,7 +167,7 @@ RawBlameHistory
         "opacity": 0.95
       }
     },
-    "autoHide": true,
+    "autoHide": false,
     "height": 90,
     "logo": {
       "imageResource": {"url": "","androidResource": "logo","iosResource": "logo"},
@@ -207,10 +190,7 @@ RawBlameHistory
       "scrubberHandleColor": "rgba(67,137,255,1)",
       "scrubberHandleBorderColor": "rgba(255,255,255,1)",
       "thumbnailPreview": true
-    },
-    "tooltips":{
-     "enabled":true
-   }
+    }
   },
   "live": {
     "forceDvrDisabled": true
