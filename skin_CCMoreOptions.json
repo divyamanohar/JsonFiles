@@ -107,7 +107,7 @@
       "show": true,
       "font": {
         "fontFamily": "Roboto Condensed",
-        "color": "red"
+        "color": "white"
       }
     },
     "showCountDownTimerOnEndScreen": true,
