@@ -100,7 +100,7 @@
     "panelTitle": {
       "titleFont": {
         "fontFamily": "Roboto Condensed",
-        "color": "white"
+        "color": "red"
       }
     },
     "contentTitle": {
