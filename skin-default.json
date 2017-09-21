@@ -88,7 +88,7 @@
   "adScreen": {
     "showAdMarquee": true,
     "showAdCountDown": true,
-    "showControlBar": true
+    "showControlBar": false
   },
   "discoveryScreen": {
     "panelTitle": {
