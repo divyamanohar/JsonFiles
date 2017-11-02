@@ -53,9 +53,9 @@
   "startScreen": {
     "promoImageSize": "default",
     "showPlayButton": true,
-    "playButtonPosition": "bottomRight",
+    "playButtonPosition": "centre",
     "playIconStyle": {
-      "color": "red",
+      "color": "white",
       "opacity": 1
     },
     "showTitle": false,
@@ -202,7 +202,7 @@
   "buttons": {
     "desktopContent": [
       {"name":"playPause", "location":"controlBar", "whenDoesNotFit":"keep", "minWidth":45 },
-      {"name":"volume", "location":"controlBar", "whenDoesNotFit":"keep", "minWidth":240 },
+      {"name":"volume", "location":"controlBar", "whenDoesNotFit":"keep", "minWidth":120 },
       {"name":"live", "location":"controlBar", "whenDoesNotFit":"keep", "minWidth":45},
       {"name":"flexibleSpace", "location":"controlBar", "whenDoesNotFit":"keep", "minWidth":1 },
       {"name":"discovery", "location":"controlBar", "whenDoesNotFit":"moveToMoreOptions", "minWidth":45 },
